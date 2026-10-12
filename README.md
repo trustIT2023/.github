@@ -9,9 +9,11 @@ Public / Private を問わず適用される。
 
 | テンプレート | Type の既定値 | ファイル |
 | --- | --- | --- |
-| タスク | `Task` | [01_Doc_02_Rule_4_MdnGit_3_tmpl_issue.md](.github/ISSUE_TEMPLATE/01_Doc_02_Rule_4_MdnGit_3_tmpl_issue.md) |
-| bug | `Bug` | [01_Doc_02_Rule_4_MdnGit_3_tmpl_bug_report.md](.github/ISSUE_TEMPLATE/01_Doc_02_Rule_4_MdnGit_3_tmpl_bug_report.md) |
-| リファクタリング | `Feature` | [01_Doc_02_Rule_4_MdnGit_5_tmpl_feature_report.md](.github/ISSUE_TEMPLATE/01_Doc_02_Rule_4_MdnGit_5_tmpl_feature_report.md) |
+| タスク | `Task` | [05_Tmpl_42_Git_51_Issue_1_Task.md](.github/ISSUE_TEMPLATE/05_Tmpl_42_Git_51_Issue_1_Task.md) |
+| 新機能 | `Feature` | [05_Tmpl_42_Git_51_Issue_2_Feature.md](.github/ISSUE_TEMPLATE/05_Tmpl_42_Git_51_Issue_2_Feature.md) |
+| 不具合 | `Bug` | [05_Tmpl_42_Git_51_Issue_3_bug.md](.github/ISSUE_TEMPLATE/05_Tmpl_42_Git_51_Issue_3_bug.md) |
+| 改善・リファクタリング | `Improvement` | [05_Tmpl_42_Git_51_Issue_4_Improvement.md](.github/ISSUE_TEMPLATE/05_Tmpl_42_Git_51_Issue_4_Improvement.md) |
+| 全体周知 | `Announcement` | [05_Tmpl_42_Git_51_Issue_5_Announcement.md](.github/ISSUE_TEMPLATE/05_Tmpl_42_Git_51_Issue_5_Announcement.md) |
 
 ## 運用ルール
 
